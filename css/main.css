@@ -1,0 +1,9 @@
+#input_text{
+	width: 500px;
+}
+
+#return_palindrome{
+	background-color: #98FB98;
+	width: 300px;
+	font-size: 25px;
+}
